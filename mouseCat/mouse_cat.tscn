@@ -47,7 +47,6 @@ shape = SubResource("RectangleShape2D_n3o2q")
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 position = Vector2(37, 175)
 script = ExtResource("2_kn0jq")
-jump_force = -13475
 
 [node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
 position = Vector2(2.86102e-06, -3)
